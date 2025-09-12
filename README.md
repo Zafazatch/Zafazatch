@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Zafarbek
+# 👋 Hi there, I’m Zafazatch
 
 High school student interested in CS, AI, and cybersecurity. Passionate about learning and building projects
 
