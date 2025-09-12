@@ -1,12 +1,6 @@
-# 👋 Hi there, I’m @Zafazatch
+# 👋 Hi there, I’m Zafarbek
 
-👀 I’m interested in Artificial Intelligence, Cybersecurity, and all things Computer Science
-🌱 Currently deepening my knowledge in programming and IT fundamentals
-🎯 My long-term goal is to study Computer Science at one of the world’s top universities — like MIT, Harvard, Stanford, The University of Tokyo, or any other institution leading in tech innovation
-💞️ Open to collaborating on beginner-friendly projects and learning groups
-📫 Reach me at dzafarbek616@gmail.com or Telegram @zafazatch
-⚡ Follow my updates on Telegram: t.me/Zafarbek_posts
-
+High school student interested in CS, AI, and cybersecurity. Passionate about learning and building projects
 
 ## 📫 How to reach me:
 - 📧 Email: dzafarbek616@gmail.com  
