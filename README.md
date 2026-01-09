@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Zafarbek
 
-High school student interested in CS, AI, and cybersecurity. Passionate about learning and building projects
+High school student interested in CS, AI, Engineering and cybersecurity. Passionate about learning and building projects
 
 ## 📫 How to reach me:
 - 📧 Email: dzafarbek616@gmail.com  
